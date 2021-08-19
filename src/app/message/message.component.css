@@ -1,0 +1,14 @@
+h2{
+  font-size: 26px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.clear{
+  padding: .5em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  border-radius: 5px;
+  border: none;
+}
+.clear:hover{
+  background: #afafaf;
+}
